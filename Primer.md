@@ -29,7 +29,7 @@ print("Hello, World!")
 # Linija razdvajanja
 ---
 # Tabela
-| Header 1 | Header 2 | Header 3 |
+| Ime | Prezime | Zanimanje |
 |:----------|:----------:|----------:|
-| Cell 1   | Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
+| Marija   | Marković  | Profesor   |
+| Ana   | Anić   | Asistent   |
